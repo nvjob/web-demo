@@ -1,7 +1,7 @@
 {
 "companyName": "#NVJOB",
 "productName": "#NVJOB STC8 Toon Web Demo",
-"productVersion": "0.1",
+"productVersion": "1.3",
 "dataUrl": "build.data.unityweb",
 "wasmCodeUrl": "build.wasm.code.unityweb",
 "wasmFrameworkUrl": "build.wasm.framework.unityweb",
