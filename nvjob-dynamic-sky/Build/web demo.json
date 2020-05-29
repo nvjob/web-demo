@@ -1,0 +1,16 @@
+{
+"companyName": "#NVJOB",
+"productName": "#NVJOB Dynamic Sky Web Demo",
+"productVersion": "2.5",
+"dataUrl": "web demo.data.unityweb",
+"wasmCodeUrl": "web demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "web demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
