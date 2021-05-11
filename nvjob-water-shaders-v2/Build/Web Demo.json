@@ -1,0 +1,16 @@
+{
+"companyName": "NVJOB",
+"productName": "NVJOB Water Shaders",
+"productVersion": "2.0",
+"dataUrl": "Web Demo.data.unityweb",
+"wasmCodeUrl": "Web Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#414141",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
